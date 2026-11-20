@@ -1,0 +1,14 @@
+{
+  "name": "la-tavola-restaurant",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "dependencies": {
+    "@neon/config": "^1.14.5",
+    "@neon/env": "^2.1.8",
+    "@neondatabase/serverless": "^1.2.1"
+  }
+}
